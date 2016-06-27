@@ -9,6 +9,7 @@ The intent is to learn by example, following our best practices for developing a
 ## Installation
 
 Each sample is packaged and available individually at `repo.magento.com`.  For convenience and demonstration of our bundling of modules, we have included the [sample-bundle-all](sample-bundle-all) composer metapackage.  Including this dependency in your Magento project is the more convenient way to integrate the full set of examples. Refer to that sample for more detailed installation instructions.
+[Magento2 custom component order by out of stock status](https://www.chrisranjana.com/magento-2-order-by-out-of-stock.html  "Magento custom component for out of stock" )
 
 To install any of these samples, you'll need to be sure that your root `composer.json` file contains a reference to the repository that contains them.  To do so, add the following to `composer.json`:
 
@@ -72,6 +73,7 @@ Each module's `composer.json` has a [`psr-4`](https://getcomposer.org/doc/04-sch
 ## Contributors
 
 Magento Core team
+
 
 ## License
 

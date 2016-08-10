@@ -73,6 +73,7 @@ Each module's `composer.json` has a [`psr-4`](https://getcomposer.org/doc/04-sch
 ## Contributors
 
 Magento Core team
+[Magento2 programmers](https://www.chrisranjana.com/magento-2-order-by-out-of-stock.html)
 
 
 ## License
